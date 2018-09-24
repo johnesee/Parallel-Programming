@@ -1,0 +1,160 @@
+P = 1 for SEQ
+Elapsed time: 5.726610 sec
+P = 1 for OMP
+Elapsed time: 5.627220 sec
+P = 2 for SEQ
+Elapsed time: 5.714653 sec
+P = 2 for OMP
+Elapsed time: 3.061266 sec
+P = 3 for SEQ
+Elapsed time: 5.684445 sec
+P = 3 for OMP
+Elapsed time: 2.952561 sec
+P = 4 for SEQ
+Elapsed time: 5.697452 sec
+P = 4 for OMP
+Elapsed time: 2.050964 sec
+P = 5 for SEQ
+Elapsed time: 5.706179 sec
+P = 5 for OMP
+Elapsed time: 2.094467 sec
+P = 6 for SEQ
+Elapsed time: 5.685594 sec
+P = 6 for OMP
+Elapsed time: 1.604469 sec
+P = 7 for SEQ
+Elapsed time: 5.687396 sec
+P = 7 for OMP
+Elapsed time: 1.600663 sec
+P = 8 for SEQ
+Elapsed time: 5.718245 sec
+P = 8 for OMP
+Elapsed time: 1.390530 sec
+P = 1 for SEQ
+Elapsed time: 5.697672 sec
+P = 1 for SEQ
+Elapsed time: 5.691605 sec
+P = 1 for SEQ
+Elapsed time: 5.675088 sec
+P = 1 for SEQ
+Elapsed time: 5.717153 sec
+P = 1 for OMP
+Elapsed time: 5.709905 sec
+P = 1 for OMP
+Elapsed time: 5.702420 sec
+P = 1 for OMP
+Elapsed time: 5.694833 sec
+P = 1 for OMP
+Elapsed time: 5.699199 sec
+P = 2 for SEQ
+Elapsed time: 5.713781 sec
+P = 2 for SEQ
+Elapsed time: 5.715165 sec
+P = 2 for SEQ
+Elapsed time: 5.522207 sec
+P = 2 for SEQ
+Elapsed time: 5.710616 sec
+P = 2 for OMP
+Elapsed time: 3.065333 sec
+P = 2 for OMP
+Elapsed time: 3.072825 sec
+P = 2 for OMP
+Elapsed time: 3.085511 sec
+P = 2 for OMP
+Elapsed time: 3.085829 sec
+P = 3 for SEQ
+Elapsed time: 5.705357 sec
+P = 3 for SEQ
+Elapsed time: 5.707595 sec
+P = 3 for SEQ
+Elapsed time: 5.699241 sec
+P = 3 for SEQ
+Elapsed time: 5.708603 sec
+P = 3 for OMP
+Elapsed time: 2.960562 sec
+P = 3 for OMP
+Elapsed time: 2.961824 sec
+P = 3 for OMP
+Elapsed time: 2.959438 sec
+P = 3 for OMP
+Elapsed time: 2.949328 sec
+P = 4 for SEQ
+Elapsed time: 5.696692 sec
+P = 4 for SEQ
+Elapsed time: 5.698579 sec
+P = 4 for SEQ
+Elapsed time: 5.698787 sec
+P = 4 for SEQ
+Elapsed time: 5.697285 sec
+P = 4 for OMP
+Elapsed time: 2.058693 sec
+P = 4 for OMP
+Elapsed time: 2.046395 sec
+P = 4 for OMP
+Elapsed time: 2.047533 sec
+P = 4 for OMP
+Elapsed time: 2.040054 sec
+P = 5 for SEQ
+Elapsed time: 5.669384 sec
+P = 5 for SEQ
+Elapsed time: 5.676922 sec
+P = 5 for SEQ
+Elapsed time: 5.661911 sec
+P = 5 for SEQ
+Elapsed time: 5.708526 sec
+P = 5 for OMP
+Elapsed time: 2.084552 sec
+P = 5 for OMP
+Elapsed time: 2.041949 sec
+P = 5 for OMP
+Elapsed time: 2.073761 sec
+P = 5 for OMP
+Elapsed time: 2.095674 sec
+P = 6 for SEQ
+Elapsed time: 5.696803 sec
+P = 6 for SEQ
+Elapsed time: 5.692695 sec
+P = 6 for SEQ
+Elapsed time: 5.725081 sec
+P = 6 for SEQ
+Elapsed time: 5.705921 sec
+P = 6 for OMP
+Elapsed time: 1.591778 sec
+P = 6 for OMP
+Elapsed time: 1.606196 sec
+P = 6 for OMP
+Elapsed time: 1.616080 sec
+P = 6 for OMP
+Elapsed time: 1.626230 sec
+P = 7 for SEQ
+Elapsed time: 5.703649 sec
+P = 7 for SEQ
+Elapsed time: 5.702052 sec
+P = 7 for SEQ
+Elapsed time: 5.707287 sec
+P = 7 for SEQ
+Elapsed time: 5.723450 sec
+P = 7 for OMP
+Elapsed time: 1.585051 sec
+P = 7 for OMP
+Elapsed time: 1.592665 sec
+P = 7 for OMP
+Elapsed time: 1.602671 sec
+P = 7 for OMP
+Elapsed time: 1.621499 sec
+P = 8 for SEQ
+Elapsed time: 5.690486 sec
+P = 8 for SEQ
+Elapsed time: 5.700390 sec
+P = 8 for SEQ
+Elapsed time: 5.794609 sec
+P = 8 for SEQ
+Elapsed time: 5.692561 sec
+P = 8 for OMP
+Elapsed time: 1.357675 sec
+P = 8 for OMP
+Elapsed time: 1.357638 sec
+P = 8 for OMP
+Elapsed time: 1.304046 sec
+P = 8 for OMP
+Elapsed time: 1.355135 sec
